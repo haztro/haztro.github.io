@@ -30,7 +30,7 @@ Below shows what's going on in steps 1 to 3 visually.
 
 You can see that when Mars and the Sun line up in panel 3, they more or less overlap in the main view and when Earth sits between them in panel 3, the main view shows them opposite one another. 
 
-This was a fun project to work on and I learnt heaps about planetry theory. If you'd like to use the tool yourself it's available at [**itch.io**](https://haztro.itch.io/planet-gazer).
+This was a fun project to work on and I learnt heaps about planetry theory. If you'd like to use the tool yourself it's available at [**itch.io**](https://haztro.itch.io/planet-gazer) (along with source code).
 
 <br/>
 <iframe frameborder="0" src="https://itch.io/embed/1055222" width="552" height="167"><a href="https://haztro.itch.io/planet-gazer">Planet Gazer by haztro</a></iframe>

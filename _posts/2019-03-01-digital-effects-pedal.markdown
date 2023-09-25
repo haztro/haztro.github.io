@@ -109,4 +109,4 @@ After I was happy with the firmware, I bought an enclosure and fit it to the PCB
 
 All the Circuit Maker PCB design files can be found [**here**](https://workspace.circuitmaker.com/Projects/Details/Harry-Stitt/Digital-Effects-Pedal).
 
-And the firmware is available on [**Github**](https://github.com/haztro/digital-effects-pedal).
+And the firmware is available on [**Github**](https://github.com/haztro/stuff/tree/main/digital-effects-pedal).

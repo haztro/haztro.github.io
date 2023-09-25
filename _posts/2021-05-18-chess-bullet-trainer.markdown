@@ -16,8 +16,8 @@ I added two additional modes: *Vision* mode throws out chess board positions and
 ![image tooltip here](/assets/chess-bullet-trainer/vision.gif)
 ![image tooltip here](/assets/chess-bullet-trainer/precision.gif)
 
-I probably spent too long making it look pretty but at least it *looks pretty*. You can try it out yourself at [**itch.io**](https://haztro.itch.io/chess-bullet-trainer).
+I probably spent too long making it look pretty but at least it *looks pretty*. You can try it out yourself at [**itch.io**](https://haztro.itch.io/chess-bullet-trainer) - source code is also there.
 
 <iframe frameborder="0" src="https://itch.io/embed/1047751" width="552" height="167"><a href="https://haztro.itch.io/chess-bullet-trainer">Chess Bullet Trainer by haztro</a></iframe>
 
-The code for the app is available on [**Github**](https://github.com/haztro/chess-bullet-trainer). It was a lot of fun to make but it's pretty hacked together so good luck if you do choose to dive in.
+It was a lot of fun to make but it's pretty hacked together so good luck if you do choose to dive in.

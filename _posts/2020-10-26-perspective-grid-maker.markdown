@@ -34,6 +34,8 @@ Here's a drawing I did using a perspective grid generated with the app.
 
 ![image tooltip here](/assets/perspective-grid-maker/drawing1.png)
 
-At some point I'd like to add 4-point perspective in addition to the 2, 3 and 5-point options. Another nice feature would be to somehow work out how to convert a grid made in 2D mode to a 3D environment and vise versa since it'd be cool to just drag around vanishing points and still have non distorted grids. Anyway, for now you can try out a demo of the tool [**here**](https://haztro.itch.io/perspective-grid-maker):  enjoy :)
+At some point I'd like to add 4-point perspective in addition to the 2, 3 and 5-point options. Another nice feature would be to somehow work out how to convert a grid made in 2D mode to a 3D environment and vise versa since it'd be cool to just drag around vanishing points and still have non distorted grids. You can get the tool [**here**](https://haztro.itch.io/perspective-grid-maker): 
 
 <iframe style="max-width: 100%" frameborder="0" src="https://itch.io/embed/795356" width="552" height="167"><a href="https://haztro.itch.io/perspective-grid-maker">Perspective Grid Maker by haztro</a></iframe>
+
+Source code available on [**github**](https://github.com/haztro/perspective-grid-maker)

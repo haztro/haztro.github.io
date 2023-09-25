@@ -9,9 +9,10 @@ Once I was confident I had something that worked I first tested it using Tic Tac
 
 Next, I moved on to writing the game logic for Blokus. A piece is represented by a sequence of moves that traverse the grid. For example the 1x2 pieces is represented as [[[1, 0]], [[0, -1]]]. There are two entries here because there's two possible orientations for the 1x2 piece. It's then trivial to rotate these entries by 90 degree increments. Once I was satisfied with the game logic I wrote a little GUI in pygame and started simulating some games. 
 
-
-![image tooltip here](/assets/blokus-ai/duo.gif)
+<p align="center">
+  <img src="/assets/blokus-ai/duo.gif" />
+</p>
 
 This is the result of two MCTS agents (iteration=10000) vsing eachother. A common strategy in Blokus is to use all the biggest pieces points (as this earns you the most points) and this is exactly what happens in this simulation so it's neat to see this emerge. At some point I'd like to improve this by getting an AlphaZero agent to play Blokus.
 
-The code for this project is available on [Github](https://github.com/haztro/blokus-ai)
+The code for this project is available on [Github](https://github.com/haztro/stuff/tree/main/blokus-ai)

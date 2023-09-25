@@ -43,10 +43,11 @@ This method can also be extended to non-square tiles like walls.
 
 ![image tooltip here](/assets/aseprite-autotile/drawing-walls.gif)
 
+<br>
 Here's a video demonstrating all the steps:
-
+<br>
 <div style="text-align: center">
 <iframe width="560" height="315" style="max-width: 100%" src="https://www.youtube.com/embed/vLfofWUdxNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<br>
 All the Aseprite/Godot files from this post can be found on [**Github**](https://github.com/haztro/autotile-tileset-test) 

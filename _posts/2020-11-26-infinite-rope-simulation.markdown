@@ -66,6 +66,6 @@ Where **pos** is the world position and **global_position** is the screen positi
 
 ![image tooltip here](/assets/infinite-rope-simulation/ir5.gif)
 
-It's pretty costly to do these rope simulations, especially with collisions, but I think the effect is pretty neat. The code is available on [Github](https://github.com/haztro/infinity-rope). 
+It's pretty costly to do these rope simulations, especially with collisions, but I think the effect is pretty neat. The code is available on [Github](https://github.com/haztro/stuff/tree/main/infinity-rope). 
 
 ![image tooltip here](/assets/infinite-rope-simulation/ir4.gif)
